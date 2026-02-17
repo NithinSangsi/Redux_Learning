@@ -21,7 +21,7 @@ Both projects are intended for learning and experimentation.
   Purpose: Basic Vite + React example to practice app scaffolding, CSS, and static assets.  
   Topics demonstrated: Vite dev server, React components (`App.jsx`), basic CSS (`App.css`, `index.css`), project metadata (`package.json`), and simple asset imports.
 
-- `Redux_small_applicatio`  
+- `Redux_small_application`  
   Purpose: A compact app that demonstrates Redux integration into a React + Vite app.  
   Topics demonstrated: Redux Toolkit slices, centralized store, dispatching actions, selecting state with hooks, and component-state interaction.
 
