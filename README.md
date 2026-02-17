@@ -90,17 +90,13 @@ Each folder is an independent Vite project. From a project folder, run:
 1. Install dependencies
 ```bash
 npm install
+npm install react-redux
+npm install @reduxjs/toolkit
 ```
 
 2. Start dev server
 ```bash
 npm run dev
-```
-
-3. Build for production
-```bash
-npm run build
-npm run preview
 ```
 
 Notes:
