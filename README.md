@@ -4,21 +4,6 @@ A small repository containing two example projects built with React + Vite to de
 
 ---
 
-## Table of Contents
-
-- **Overview**
-- **Folders**
-  - `demo`
-  - `Redux_small_applicatio`
-- **Redux Small Application — Description**
-- **Key Concepts & Features**
-- **File Overview**
-- **Setup & Run**
-- **Development Notes**
-- **Contributing**
-
----
-
 ## Overview
 
 This repository contains two projects:
@@ -120,12 +105,4 @@ Notes:
 
 ---
 
-## Contributing
 
-Contributions, issues, and feature requests are welcome. Typical contributions:
-
-- Improve README or documentation.
-- Add exercises or features (e.g., todo list, async fetch example).
-- Fix bugs or refactor for clarity.
-
-If you'd like, I can add this `README.md` to the repository root for you.
