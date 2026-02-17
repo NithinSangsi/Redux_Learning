@@ -9,7 +9,7 @@ A small repository containing two example projects built with React + Vite to de
 This repository contains two projects:
 
 - `demo`: A lightweight Vite + React starter demonstrating minimal app structure, styling, and asset usage.
-- `Redux_small_applicatio`: A small React + Vite app that uses Redux (Redux Toolkit) to manage application state (a basic counter app with global state and slices).
+- `Redux_small_application`: A small React + Vite app that uses Redux (Redux Toolkit) to manage application state (a basic counter app with global state and slices).
 
 Both projects are intended for learning and experimentation.
 
@@ -29,7 +29,7 @@ Both projects are intended for learning and experimentation.
 
 ## Redux Small Application — Description
 
-The `Redux_small_applicatio` folder contains a simple counter application built with React and Redux Toolkit. It illustrates how to:
+The `Redux_small_application` folder contains a simple counter application built with React and Redux Toolkit. It illustrates how to:
 
 - Create a Redux store and provide it to the React app.
 - Define a slice with reducers and actions (increment, decrement, reset).
@@ -58,10 +58,10 @@ Flow:
 
 Important files to explore:
 
-- `Redux_small_applicatio/src/ReduxCounter.jsx` — UI component demonstrating read/dispatch with Redux.
-- `Redux_small_applicatio/src/store/store.js` — Configures and exports the Redux store.
-- `Redux_small_applicatio/src/store/slices/ReduxCounterSlice.js` — Defines the counter slice (initial state, reducers, actions).
-- `Redux_small_applicatio/src/main.jsx` — App bootstrap; where the store is provided to React.
+- `Redux_small_application/src/ReduxCounter.jsx` — UI component demonstrating read/dispatch with Redux.
+- `Redux_small_application/src/store/store.js` — Configures and exports the Redux store.
+- `Redux_small_application/src/store/slices/ReduxCounterSlice.js` — Defines the counter slice (initial state, reducers, actions).
+- `Redux_small_application/src/main.jsx` — App bootstrap; where the store is provided to React.
 - `demo/src/App.jsx` — Simple demo app entry component.
 - `demo/src/main.jsx` — Demo app bootstrap.
 - Each project's `package.json` — Scripts and dependencies.
@@ -72,7 +72,7 @@ Important files to explore:
 
 Each folder is an independent Vite project. From a project folder, run:
 
-1. Install dependencies
+1. Install dependencies in each Folder
 ```bash
 npm install
 npm install react-redux
