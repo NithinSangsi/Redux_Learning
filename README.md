@@ -1,4 +1,4 @@
-# Redux Projects Collection
+# Redux Learning 
 
 A small repository containing two example projects built with React + Vite to demonstrate basic frontend concepts and Redux state management. This repo is meant to showcase what I've learned so far and provide a simple, runnable example of using Redux (Redux Toolkit) in a small application.
 
